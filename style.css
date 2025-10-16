@@ -24,3 +24,8 @@
 .copy-right {
   background: #000;
 }
+
+.blur-filter {
+  backdrop-filter: blur(5px);
+  background-color: #cccccc23;
+}
